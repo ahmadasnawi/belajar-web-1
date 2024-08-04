@@ -12,7 +12,7 @@
         <div id="container">
             <div class="baris-atas">
                 <div class="loggo">
-                    <h1>Boggo</h1>
+                    <h1>B<span>oo</span>gie</h1>
                 </div>
                 <div class="link">
                     <ul>

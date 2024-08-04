@@ -31,7 +31,7 @@ section{
     font-size: 50px;
     font-family: "Englebert", cursive;
 }
-.baris-atas .red{
+.baris-atas span{
     color: red;
 }
 .baris-atas .link ul{
